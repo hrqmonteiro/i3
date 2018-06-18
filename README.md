@@ -17,4 +17,4 @@ Dotfiles for: i3, xresources, polybar, dunst, compton, etc...
 **Icon theme**: [Papirus-Adapta](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)  
 **Icon font**: [Font Awesome](https://fontawesome.com/)  
 **Shell**: [zsh w/ oh-my-szh installed](https://github.com/robbyrussell/oh-my-zsh)  
-**Wallpaper: [Link](http://hdqwalls.com/mountains-moon-trees-minimalism-wallpaper)
+**Wallpaper**: [Link](http://hdqwalls.com/mountains-moon-trees-minimalism-wallpaper)

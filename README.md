@@ -1,3 +1,5 @@
+![alt text](http://https://i.imgur.com/jJSi2Ip.png)
+
 Dotfiles for: i3, xresources, polybar, dunst, compton
 
 WM: i3

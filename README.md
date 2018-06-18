@@ -1,4 +1,4 @@
-## Introdução
+## Introduction
 
 Dotfiles for: i3, xresources, polybar, dunst, compton, etc...
 

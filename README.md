@@ -1,4 +1,4 @@
-![Optional Text](../master/i3/blob/master/2018-06-18-005008_1920x1080_scrot.png)
+![stack Overflow](https://i.imgur.com/jJSi2Ip.png)
 
 Dotfiles for: i3, xresources, polybar, dunst, compton
 
